@@ -1,2 +1,2 @@
 # hello-world
-a starter project
+This is my first repository on GitHub.
